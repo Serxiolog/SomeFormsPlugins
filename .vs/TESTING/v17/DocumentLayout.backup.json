@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\89176\\source\\repos\\TESTING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|c:\\users\\89176\\source\\repos\\testing\\formforlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|solutionrelative:formforlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|c:\\users\\89176\\source\\repos\\testing\\formforlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|solutionrelative:formforlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|c:\\users\\89176\\source\\repos\\testing\\formforlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|solutionrelative:formforlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|c:\\users\\89176\\source\\repos\\testing\\formforlab\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234C94C-AE3A-4CEA-9959-1FF21530D418}|FormForLab\\FormForLab.csproj|solutionrelative:formforlab\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "FormForLab\\MainForm.cs",
+              "ToolTip": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FormForLab\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:52:50.461Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\Program.cs",
+              "RelativeDocumentMoniker": "FormForLab\\Program.cs",
+              "ToolTip": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\Program.cs",
+              "RelativeToolTip": "FormForLab\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:34:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "FormForLab\\MainForm.cs",
+              "ToolTip": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.cs",
+              "RelativeToolTip": "FormForLab\\MainForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAEwF4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:30:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "FormForLab\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\89176\\source\\repos\\TESTING\\FormForLab\\MainForm.Designer.cs",
+              "RelativeToolTip": "FormForLab\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAjwKUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:29:51.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

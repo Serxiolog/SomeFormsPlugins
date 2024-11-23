@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ComponentsLibraryNet60" Version="1.0.0" />
+    <PackageReference Include="ControlsLibraryNet60" Version="1.0.0" />
+    <PackageReference Include="COP_V6" Version="1.0.0" />
+    <PackageReference Include="KOP-14" Version="1.0.0" />
+    <PackageReference Include="KOP-14_2" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Database\Database.csproj" />
+    <ProjectReference Include="..\IModels\IModels.csproj" />
+    <ProjectReference Include="..\Laba\Laba.csproj" />
+    <ProjectReference Include="..\NonVisualLaba\NonVisualLaba.csproj" />
+    <ProjectReference Include="..\Plugins\Plugins.csproj" />
+  </ItemGroup>
+
+</Project>

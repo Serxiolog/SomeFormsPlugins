@@ -1,0 +1,11 @@
+C:\Users\89176\source\repos\TESTING\Plugins\bin\Debug\net8.0-windows\Plugins.deps.json
+C:\Users\89176\source\repos\TESTING\Plugins\bin\Debug\net8.0-windows\Plugins.dll
+C:\Users\89176\source\repos\TESTING\Plugins\bin\Debug\net8.0-windows\Plugins.pdb
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.AssemblyInfoInputs.cache
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.AssemblyInfo.cs
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.dll
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\refint\Plugins.dll
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\Plugins.pdb
+C:\Users\89176\source\repos\TESTING\Plugins\obj\Debug\net8.0-windows\ref\Plugins.dll
